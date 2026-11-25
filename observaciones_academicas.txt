@@ -1,0 +1,21 @@
+========================================
+Matrícula: ES172000419
+Estudiante: GERMAN OLVERA
+Asignatura: PROGRAMACION III
+Observación: EXCELENTE MATERIA
+========================================
+
+========================================
+Matrícula: ES172000419
+Estudiante: GERMAN OLVERA
+Asignatura: PROGRAMACION III
+Observación: EXCELENTE
+========================================
+
+========================================
+Matrícula: ES17000419
+Estudiante: GERMAN OLVERA TEJERO
+Asignatura: PROGRAMACION III
+Observación: EXCELENTE MATERIA
+========================================
+
