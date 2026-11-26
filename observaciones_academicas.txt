@@ -19,3 +19,17 @@ Asignatura: PROGRAMACION III
 Observación: EXCELENTE MATERIA
 ========================================
 
+========================================
+Matrícula: ES17000492
+Estudiante: GERMAN OLVERA TEJERO
+Asignatura: PROGRAMACION III
+Observación: EXCELENTE
+========================================
+
+========================================
+Matrícula: ES17000492
+Estudiante: GERMAN OLVERA TEJERO
+Asignatura: PROGRAMACION III
+Observación: EXCELENTE MAESTRA Y MATERIA
+========================================
+
